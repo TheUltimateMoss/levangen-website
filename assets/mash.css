@@ -1,0 +1,7 @@
+.gallery{
+	width: 300px;
+	height: 600px;
+	object-fit: cover;
+	padding: 20px;
+	border: double white;
+}
