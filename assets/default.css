@@ -12,8 +12,10 @@ h1 {
 p  {
 	color: #0055ff;
 }
-img {
-}
 .text-glow {
 	text-shadow: 0 0 20px rgb(255 20 255 / 100%), 0 0 3px rgb(255 200 255 / 100%)
  }
+.homeicon {
+	width: 100px;
+	height: 100px;
+}
